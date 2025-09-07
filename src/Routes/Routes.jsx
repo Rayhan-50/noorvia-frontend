@@ -137,7 +137,7 @@ export const router = createBrowserRouter([
      
       // user routes
       {
-        path: "studentProfile",
+        path: "Profile",
         element: (
           <Profile></Profile>
           
